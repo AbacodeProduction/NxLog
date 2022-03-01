@@ -6,7 +6,7 @@
 # Last modification: 2020-06-18
 #
 
-define ROOT C:\Program Files x86\nxlog
+define ROOT C:\Program Files (x86)\nxlog
 define OUTPUT_DESTINATION_ADDRESS usmsensoriphere
 define OUTPUT_DESTINATION_PORT 5601
 
