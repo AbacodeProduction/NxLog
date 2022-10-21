@@ -1,7 +1,4 @@
-#
-# Configuration for converting and sending Windows logs
-# to AlienVault USM Anywhere.
-#
+
 define ROOT C:\Program Files\nxlog 
 define OUTPUT_DESTINATION_ADDRESS usmsensoriphere
 define OUTPUT_DESTINATION_PORT 5601
