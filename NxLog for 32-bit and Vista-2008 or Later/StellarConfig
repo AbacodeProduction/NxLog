@@ -1,6 +1,6 @@
 
 define ROOT C:\Program Files\nxlog
-define OUTPUT_DESTINATION_ADDRESS usmsensoriphere
+define OUTPUT_DESTINATION_ADDRESS IPHere
 define OUTPUT_DESTINATION_PORT 5601
 
 Moduledir %ROOT%\modules
